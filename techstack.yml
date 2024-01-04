@@ -1,7 +1,8 @@
 repo_name: tdubs42/frontend
 report_id: e78b678049e09982eabbbb8bcd8029bc
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T22:33:04+00:00'
+timestamp: '2024-01-04T15:16:17+00:00'
 requested_by: vjspranav
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/tdubs42/frontend
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tdubs42/frontend
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -37,7 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -51,7 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5388/9xvwNLlR_400x400.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -65,6 +68,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-30 08:01:18.000000000 Z
@@ -78,7 +82,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -92,7 +96,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -105,6 +109,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -119,7 +124,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6749/styled-components.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -131,6 +136,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tdubs42/frontend
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -140,7 +146,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/main.yml"
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/.github/workflows/dev.yml
+  detection_source: ".github/workflows/dev.yml"
   last_updated_by: Pranay Narang
   last_updated_on: 2021-08-09 06:51:21.000000000 Z
 - name: npm
@@ -151,6 +158,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -164,7 +172,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -178,7 +186,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-30 08:01:18.000000000 Z
@@ -192,7 +200,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-30 08:01:18.000000000 Z
@@ -206,7 +214,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18760/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-30 08:01:18.000000000 Z
@@ -220,7 +228,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -235,7 +243,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -249,7 +257,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16886/default_39222bc61d2c4e84c2e001fe7b31e7c8bf5f4832.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -263,7 +271,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-28 16:45:55.000000000 Z
@@ -277,7 +285,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 19:15:57.000000000 Z
@@ -298,7 +306,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18432/default_090197a87d306c919c7dbc09bfedd02e3b061236.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -312,7 +320,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -326,7 +334,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -340,7 +348,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18260/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -354,7 +362,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -368,7 +376,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-09-02 11:51:48.000000000 Z
@@ -382,7 +390,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/frontend/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: vjspranav
   last_updated_on: 2021-07-29 17:56:41.000000000 Z
